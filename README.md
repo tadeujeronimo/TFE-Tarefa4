@@ -41,7 +41,8 @@ npm run dev
 
 ## Vídeo explicativo no YouTube (não listado):
 
-<link do vídeo aqui>
+[https://youtu.be/BBeMjtCDUGo](https://youtu.be/BBeMjtCDUGo)
+
 
 ## Autor
 
